@@ -398,7 +398,7 @@ See https://github.com/allyourbot/hostedgpt/blob/main/CONTRIBUTING.md
 
 (Notable features planned for v0.8: Voice mode, pin conversations, bookmarks, multiple service image generation/tool calling)
 
-V0.7 - Released on 8/18/2026
+V0.7 - Released on 8/18/2025
 - Anthropic Claude, Google Gemini, Llama, and Groq services support
 - Tools (OpenAI) for memory, weather, images, google search
 - Conversation search across conversations/assistants
